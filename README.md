@@ -1,2 +1,2 @@
-# Class41
-In this class I added rankings to the car racing game
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
